@@ -22,6 +22,9 @@ Built an interactive web platform for country-wise impact analytics with modular
 🤝 Let's Connect
 
 LeetCode: https://leetcode.com/u/P_ALEKHYA/
+
 HackerRank: https://www.hackerrank.com/profile/palagummialekhya
+
 LinkedIn: https://www.linkedin.com/in/alekhya-p-v-s-l-259671330/
+
 📧 Email: palagummialekhya07@gmail.com
