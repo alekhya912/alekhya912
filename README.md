@@ -1,30 +1,31 @@
-👋 Hi, I'm P V S L Alekhya!
+ Hi, I'm P V S L Alekhya!
 
-🎓 B.Tech CSE Student  
-💡 Passionate about Web Dev & Machine Learning  
-🌱 Currently building impactful projects & learning by doing   
-🛠️ Tools: Java, Python, HTML, CSS, JS, SQL, JSP, Streamlit, MySQL
+🎓 Computer Science Engineering Graduate  
+💡 Passionate about Backend Development, Web Development & Machine Learning  
+🌱 Currently building impactful projects and learning by doing  
+🛠️ Tools: Java, Python, Flask, HTML, CSS, JavaScript, SQL, JSP, Streamlit, MySQL, Gemini API, Git & GitHub
 
 🚀 Projects
 
-🔹 Fake News Detection App  
-🧠 Logistic Regression | 🧰 Streamlit | 📊 TF-IDF  
-Built a machine learning web app that classifies news as real or fake with real-time prediction UI.
+🔹 AI Resume Reviewer
+🧠 Python | Flask | Gemini API | PyMuPDF | HTML | CSS
+Built an AI-powered web application that analyzes PDF resumes against job descriptions. Extracts resume content using PyMuPDF and generates AI-driven feedback, including match scores, matching skills, missing skills, and improvement suggestions.
 
-🔹 Green Mart  
-🛒 HTML, CSS, JSP, JavaScript, MySQL  
-Designed a fully responsive grocery website with cart, authentication & session management.
+🔹 Fake News Detection App
+🧠 Logistic Regression | 🧰 Streamlit | 📊 TF-IDF
+Built a machine learning web app that classifies news as real or fake with a real-time prediction interface.
 
-🔹 Climate Analytics Platform  
-🌐 HTML, CSS, JavaScript  
-Built an interactive web platform for country-wise impact analytics with modular JS.
+🔹 Green Mart
+🛒 HTML, CSS, JSP, JavaScript, MySQL
+Designed a responsive grocery website with cart functionality, authentication, and session management.
 
-🤝 Let's Connect
+🔹 Climate Analytics Platform
+🌐 HTML, CSS, JavaScript
+Built an interactive web platform for country-wise climate impact analytics with modular JavaScript and real-time filtering.
 
-LeetCode: https://leetcode.com/u/P_ALEKHYA/
+## 🤝 Let's Connect
 
-HackerRank: https://www.hackerrank.com/profile/palagummialekhya
-
-LinkedIn: https://www.linkedin.com/in/alekhya-p-v-s-l-259671330/
-
-📧 Email: palagummialekhya07@gmail.com
+- **LeetCode:** https://leetcode.com/u/P_ALEKHYA/
+- **HackerRank:** https://www.hackerrank.com/profile/palagummialekhya
+- **LinkedIn:** https://www.linkedin.com/in/alekhya-p-v-s-l-259671330/
+- **Email:** palagummialekhya07@gmail.com
